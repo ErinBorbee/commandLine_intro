@@ -26,7 +26,7 @@ dependencies:
   - bioconductor-iranges=2.16.0
   - bioconductor-rsamtools=1.34.0
   - bioconductor-s4vectors=0.20.1
-  - bioconductor-shortread=1.40.0
+  - bioconductor-shortread=1.52.0
   - bioconductor-summarizedexperiment=1.12.0
   - bioconductor-xvector=0.22.0
   - bioconductor-zlibbioc=1.28.0

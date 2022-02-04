@@ -13,7 +13,7 @@ dependencies:
   - bibtexparser=1.1.0
   - binutils_impl_linux-64=2.34
   - binutils_linux-64=2.34
-  - bioconductor-biobase=3.13.0
+  - bioconductor-biobase=3.9.0
   - bioconductor-biocgenerics=2.8.0
   - bioconductor-biocparallel=1.28.0
   - bioconductor-biostrings=2.62.0
@@ -260,7 +260,7 @@ dependencies:
   - qt=5.12.5
   - r-assertthat=0.2.1
   - r-backports=1.1.6
-  - r-base=4.1.0
+  - r-base=4.1.2
   - r-bh=1.72.0_3
   - r-bitops=1.0_6
   - r-callr=3.4.3

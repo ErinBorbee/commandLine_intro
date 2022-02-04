@@ -13,7 +13,7 @@ dependencies:
   - bibtexparser=1.1.0
   - binutils_impl_linux-64=2.34
   - binutils_linux-64=2.34
-  - bioconductor-biobase=3.14.0
+  - bioconductor-biobase=2.54.0
   - bioconductor-biocgenerics=0.28.0
   - bioconductor-biocparallel=1.16.6
   - bioconductor-biostrings=2.50.2

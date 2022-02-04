@@ -118,7 +118,7 @@ dependencies:
   - libgcc=7.2.0
   - libgcc-ng=9.4.0
   - libgfortran-ng=7.5.0
-  - libgomp=9.2.0
+  - libgomp=9.4.0
   - libiconv=1.15
   - liblapack=3.8.0
   - liblapacke=3.8.0
@@ -127,7 +127,7 @@ dependencies:
   - libpng=1.6.37
   - libsodium=1.0.17
   - libssh2=1.9.0
-  - libstdcxx-ng=9.2.0
+  - libstdcxx-ng=9.4.0
   - libtiff=4.1.0
   - libuuid=2.32.1
   - libwebp-base=1.1.0

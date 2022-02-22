@@ -158,7 +158,6 @@ dependencies:
   - pandas=0.25.3
   - pandoc=2.9.2.1
   - pandocfilters=1.4.2
-  - pango=1.42.4
   - parso=0.7.0
   - patsy=0.5.1
   - pcre=8.44

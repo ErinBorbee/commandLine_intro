@@ -71,8 +71,6 @@ dependencies:
   - gcc_impl_linux-64=7.5.0
   - gcc_linux-64=7.5.0
   - gettext=0.19.8.1
-  - gfortran_impl_linux-64=7.5.0
-  - gfortran_linux-64=7.5.0
   - giflib=5.2.1
   - glib=2.65.0
   - gneiss=0.4.6
@@ -80,8 +78,6 @@ dependencies:
   - gsl=2.5
   - gst-plugins-base=1.14.5
   - gstreamer=1.14.5
-  - gxx_impl_linux-64=10.3.0
-  - gxx_linux-64=10.3.0
   - h5py=2.10.0
   - harfbuzz=2.4.0
   - hdf5=1.10.5

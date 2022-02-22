@@ -1,6 +1,7 @@
 # Command Line Basics
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ErinBorbee/commandLine_intro/HEAD)
-In this tutorial you will learn about basic commands in your terminal to help you get comfortable navigating your file system from command line. The commands used in this tutorial include:
+
+In this tutorial, you will learn about basic commands in your terminal to help you get comfortable navigating your file system from command line. The commands used in this tutorial include:
  - Change directory (`cd`)
  - List contents of directory (`ls`)
  - Make directory (`mkdir`)

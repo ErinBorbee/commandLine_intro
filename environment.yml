@@ -3,16 +3,10 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - ipykernel=5.3.0
-  - ipython=7.15.0
-  - ipython_genutils=0.2.0
-  - ipywidgets=7.5.1
   - notebook=6.0.3
-  - numpy=1.18.5
   - python=3.6.10
   - python-dateutil=2.8.1
   - python_abi=3.6
-  - yaml=0.2.5
   - pip:
       - pyqt5-sip==4.19.18
       - pyqtchart==5.12

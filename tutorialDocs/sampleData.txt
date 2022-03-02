@@ -1,0 +1,11 @@
+sample	type	count
+S001	A	3
+S002	B	6
+S003	A	2
+S004	A	3
+S005	B	8
+S006	B	4
+S007	B	7
+S008	A	5
+S009	B	4
+S010	A	3
